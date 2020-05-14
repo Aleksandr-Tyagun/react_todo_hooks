@@ -1,0 +1,2 @@
+body{margin:0}.app{background:#209cee;padding:30px;height:100vh}.todo-list{background:#e8e8e8;border-radius:4px;padding:5px;max-width:400px}.todo{background:#fff;box-shadow:1px 1px 1px rgba(0,0,0,.15);padding:6px 15px;font-size:18px;margin-bottom:6px;border-radius:3px;display:flex;align-items:center;justify-content:space-between}.add{display:grid;grid-template-columns:3fr 1fr}.add__input{width:100%}.add__button{display:inline-block;padding-left:10px}.button,.input{font-size:18px}.input{width:100%}
+/*# sourceMappingURL=main.e670bf5a.chunk.css.map */
